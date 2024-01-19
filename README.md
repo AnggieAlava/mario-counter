@@ -10,7 +10,7 @@ This is a buss passenger counter app that I built with [Scrimba](https://scrimba
 
 ## Demo
 
-Check out the live demo [HERE...](https://lighthearted-peony-d9be5e.netlify.app/).
+Check out the live demo [HERE...](https://mario-counter.netlify.app/).
 
 ## Preview
 
