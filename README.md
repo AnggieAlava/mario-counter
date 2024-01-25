@@ -12,6 +12,12 @@ This is a buss passenger counter app that I built with [Scrimba](https://scrimba
 
 Check out the live demo [HERE...](https://mario-counter.netlify.app/).
 
+## Authors
+
+[Anggie Alava](https://www.linkedin.com/in/anggiealava/)
+
+![Logo](./logo192x192.png)
+
 ## Preview
 
 ![Project Preview](/assets/mario-counter.gif)
